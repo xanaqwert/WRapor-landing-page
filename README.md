@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images-wrapor/icon.png" alt="Logo" width="250px" height="230px">
+    <img src="images-wrapor/icon.png" alt="Logo" width="220px" height="200px">
   </a>
 
   <h3 align="center">Projek Sekolah</h3>
