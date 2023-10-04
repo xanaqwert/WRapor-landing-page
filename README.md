@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images-sapphire/adaptive-icon.png" alt="Logo" width="300px" height="280px">
+    <img src="images-wrapor/icon.png" alt="Logo" width="300px" height="280px">
   </a>
 
   <h3 align="center">Projek Sekolah</h3>
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang WRapor
 
-<img src="images-sapphire/sapphire-screenshot.png" alt="Screenshot">
+<img src="images-wrapor/wrapor" alt="Screenshot">
 
 Wrapor adalah aplikasi mobile yang memungkinkan siswa/siswi dan orang tua untuk melihat nilai akademik dan laporan.
 
