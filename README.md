@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang WRapor
 
-<img src="images-wrapor/wrapor" alt="Screenshot">
+<img src="images-wrapor/wrapor.png" alt="Screenshot">
 
 Wrapor adalah aplikasi mobile yang memungkinkan siswa/siswi dan orang tua untuk melihat nilai akademik dan laporan.
 
